@@ -28,7 +28,6 @@ class lab1{
 		perimeter = Point3d.compuleArea(dot1,dot2,dot3);
 		area = Point3d.space(dot1,dot2,dot3);
 
-// Блять
 
 		// Вывод данных
 		System.out.println("Периметр: " + String.valueOf(perimeter));
